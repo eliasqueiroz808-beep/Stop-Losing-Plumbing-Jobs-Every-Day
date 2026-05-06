@@ -546,12 +546,11 @@ section {
     }
 
     .pro-plan {
-        transform: scale(1.05);
         z-index: 2;
     }
 
     .pro-plan:hover {
-        transform: scale(1.05) translateY(-5px);
+        transform: translateY(-5px);
     }
 
     .security-seals {
